@@ -1,7 +1,7 @@
 package com.microService.ProductService.service;
 
 import com.microService.ProductService.Exception.ProductNotFound;
-import com.microService.ProductService.entiry.Product;
+import com.microService.ProductService.entity.Product;
 import com.microService.ProductService.DTO.ProductRequest;
 import com.microService.ProductService.DTO.ProductResponse;
 import com.microService.ProductService.repository.ProductRepository;

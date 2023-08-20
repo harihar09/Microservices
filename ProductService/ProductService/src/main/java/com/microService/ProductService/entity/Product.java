@@ -1,4 +1,4 @@
-package com.microService.ProductService.entiry;
+package com.microService.ProductService.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

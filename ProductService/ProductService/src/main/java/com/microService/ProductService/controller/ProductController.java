@@ -1,6 +1,6 @@
 package com.microService.ProductService.controller;
 
-import com.microService.ProductService.entiry.Product;
+import com.microService.ProductService.entity.Product;
 import com.microService.ProductService.DTO.ProductRequest;
 import com.microService.ProductService.DTO.ProductResponse;
 import com.microService.ProductService.service.ProductService;
