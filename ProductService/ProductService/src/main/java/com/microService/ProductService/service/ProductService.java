@@ -9,4 +9,6 @@ public interface ProductService {
     void deleteProduct(Long id);
 
     ProductResponse getProduct(Long id);
+
+    void reduceQuantity(long productId, long quantity);
 }

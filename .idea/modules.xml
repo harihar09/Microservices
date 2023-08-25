@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices_Udemy.iml" filepath="$PROJECT_DIR$/.idea/MicroServices_Udemy.iml" />
       <module fileurl="file://$PROJECT_DIR$/OrderService/OrderService/OrderService.iml" filepath="$PROJECT_DIR$/OrderService/OrderService/OrderService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" filepath="$PROJECT_DIR$/ProductService/ProductService/ProductService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configServer/configServer/configServer.iml" filepath="$PROJECT_DIR$/configServer/configServer/configServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/service-registry/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/service-registry/service-registry/service-registry.iml" />
     </modules>
   </component>
